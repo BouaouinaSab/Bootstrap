@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(231, 218, 218) !important;
+}
+#code{
+    margin: auto;
+    margin-left: -15px;
+    width: 135%;
+    height: 300px;
+}
+img{
+    width: 200px;
+    margin-left: 485px;
+    margin-top: -100px;
+}
+.nom{
+    font-family: fantasy;
+    text-align: center;
+    position: relative;
+}
+.bio{
+    font-style: italic;
+    font-size: 1.1em;
+    text-transform: lowercase;
+    text-align: center;
+}
+.mouraba{
+    width: 100px;
+    margin-top: 100px;
+}
+.titre{
+    color: chocolate ;
+    font-weight: bold ; 
+}
+#liste{
+    list-style: circle;
+}
+.g{
+    font-weight: bold;
+}
+span{
+    color: rgb(241, 45, 84)
+}
+.durée{
+    color: dimgrey
+}
+
+.interests i:hover{
+    transform: rotate(360deg);
+    transition: all .37s;
+}
+.show{
+    
+    margin-top: 20px;
+    font-weight: bold ;
+    color: teal;
+}
+#projet{
+    margin-top: -230px;
+}
+
+
+
+
